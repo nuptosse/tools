@@ -1,5 +1,6 @@
 ## drcom.py
 ### 用法
+代码14,15行，填入自己的上网账号密码
 ```python
 python drcom.py
 ```
